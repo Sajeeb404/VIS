@@ -94,3 +94,27 @@
     z-index: 1; /* Ensure the icon is always on top */
   }
   
+
+
+
+  .customBold select{
+    font-size: 20px;
+    font-weight: 400;
+    color: #00000099;
+  }
+
+  .customBoldTwo select{
+    font-size: 20px;
+    font-weight: 400;
+    color: #00000099;
+  }
+
+  .customBoldThree select{
+    font-size: 20px;
+    font-weight: 400;
+    color: #00000099;
+  }
+
+
+
+

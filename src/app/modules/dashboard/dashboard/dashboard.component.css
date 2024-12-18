@@ -24,6 +24,7 @@
 
   
   
+
 /* Wrapper for the select and icon */
 .custom-select-wrapper {
     position: relative; /* Allows absolute positioning of the icon */
@@ -70,16 +71,40 @@
 
 
 
-
-  .date-input {
-    cursor: pointer;
-  }
-  
-  .date-picker {
-    pointer-events: all; /* Ensure it's clickable */
-  }
-  
-
+.welcome h2{
+  font-size: 40px;
+  font-weight: 600px;
+  color:#000000;
+} 
  
-  
- 
+
+.fontbol p{
+  font-size: 18px;
+  font-weight: 500;
+  color:#000000;
+
+}
+
+.fontbol h2{
+  font-size: 32px;
+  font-weight: 700;
+  color:#000000;
+
+}
+
+
+.dateCustom p, button{
+  font-weight: 500;
+  font-size: 20px;
+  color:#000000;
+}
+
+.dateCustom select{
+  font-size:20px;
+  font-weight: 400;
+  color: #00000099;
+}
+
+
+
+
